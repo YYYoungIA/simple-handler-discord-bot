@@ -4,9 +4,10 @@ _1. Aller dans le `config.js` et insérer le token de votre bot._
 _2. Créer la base de données. Pour cela, installer Xampp (https://www.apachefriends.org/fr/download.html (8.1.6 ou plus). Démarrer Apache et MySQL en Admin. Créer une nouvelle base de données dans laquelle vous créerez la table serveur avec guildID et préfix en VARCHAR avec une taille de 255. Puis, mettez guildID en primaire (plus puis primaire). Ensuite aller dans `Database.js` puis mettez le nom de votre base de données. NE TOUCHEZ PAS AU MOT DE PASSE !_
 _3. Ensuite, installer les modules discord.js , mysql et fs en faisant :_
 
-`npm i mysql`,
-`npm i discord.js`,
-`npm i fs`,
+`npm i yarn -g` ( très important )
+`yarn mysql`,
+`yarn add discord.js`,
+`yarn add fs`,
 
 _Dans la console._
 

@@ -5,7 +5,7 @@ _2. Créer la base de données. Pour cela, installer Xampp (https://www.apachefr
 _3. Ensuite, installer les modules discord.js , mysql et fs en faisant :_
 
 `npm i yarn -g` ( très important )
-`yarn mysql`,
+`yarn add mysql`,
 `yarn add discord.js`,
 `yarn add fs`,
 

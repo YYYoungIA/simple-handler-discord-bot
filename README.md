@@ -27,8 +27,10 @@ _5. Lancer le bot en mettant `node index` ou `node index.js` dans le terminal ( 
 PS : Pour inviter le bot , cocher dans OAuth2 : 
 
 bot
+
 application_commands
-ADMINSTRATOR ( Administrateur )
+
+ADMINISTRATOR ( Administrateur )
 
 
 sinon les SlashCommand ne s'afficheront pas !
